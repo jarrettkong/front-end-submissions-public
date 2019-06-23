@@ -52,9 +52,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Jarrett Kong
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://gist.github.com/jarrettkong/9a0010bfc67adc3ae9d72614677fb329)
+* [Annotated Express server file](https://gist.github.com/jarrettkong/864e3b4e6ccd19c3fc7f8167650711bf)
+* [Promise Practice Exercises](https://repl.it/@jarrettkong/QuintessentialDarkmagentaProtocols)
 
 ## Justin Pyktel
 
